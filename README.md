@@ -14,7 +14,7 @@ To cite this repository, please cite the [paper](https://www.sciencedirect.com/s
 Below is the BibTex for citing the manuscript.
 
 ```
-@article{liu2020k,
+@article{Liu2020,
   title={On the k-Strong Roman Domination Problem},
   author={Liu, Zeyu and Li, Xueping and Khojandi, Anahita},
   journal={Discrete Applied Mathematics},
