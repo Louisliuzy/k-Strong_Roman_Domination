@@ -5,7 +5,7 @@ This archive is distributed under the [MIT License](LICENSE).
 
 The source code and data in this repository are a snapshot of the software and data
 that were used in the research reported in the paper 
-[k-Strong Roman Domination](https://www.sciencedirect.com/science/article/pii/S0166218X20302675) by Z. Liu et. al. The data generated for this study are included with the codes.
+[On the k-Strong Roman Domination Problem](https://www.sciencedirect.com/science/article/pii/S0166218X20302675) by Z. Liu et. al. The data generated for this study are included with the codes.
 
 ## Cite
 
@@ -38,8 +38,6 @@ The following Python libraries are required to run the source codes:
 4. `networkx`.
 
 ## Usage
-
-### General MDP
 
 In `main`, there are three functions. `graph_generation()` generates testing instances. `ip_solver()` solves k-strong Roman domination with integer programming. `Lshaped()` solves k-strong Roman domination with Benders decomposition.
 
